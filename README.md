@@ -3,6 +3,12 @@
 
 An interactive data exploration app built with **Preswald**, **Plotly**, and **Pandas** to explore item data. It includes dynamic filtering, visualizations, and a table to analyze the relationship between quantity and value.
 
+## Output :
+<img width="1428" alt="Screenshot 2025-04-26 at 4 32 45 PM" src="https://github.com/user-attachments/assets/51bd27f0-9ee4-4b96-bb47-99494cb07789" />
+<img width="1429" alt="Screenshot 2025-04-26 at 4 33 01 PM" src="https://github.com/user-attachments/assets/c74d957d-fdbd-42b4-a127-079ef39ec3a4" />
+<img width="1436" alt="Screenshot 2025-04-26 at 4 33 21 PM" src="https://github.com/user-attachments/assets/e2435045-8b78-40a6-8f7a-37512dc8cd5b" />
+<img width="1434" alt="Screenshot 2025-04-26 at 4 33 34 PM" src="https://github.com/user-attachments/assets/465194e5-c2e8-4d99-a4c4-114690b6ff20" />
+
 ## Features
 
 - **Filter by Quantity**: Slider to filter items by quantity.
@@ -49,8 +55,4 @@ pip install preswald pandas plotly
    preswald run      
 ```
 
-Output :
-<img width="1428" alt="Screenshot 2025-04-26 at 4 32 45 PM" src="https://github.com/user-attachments/assets/51bd27f0-9ee4-4b96-bb47-99494cb07789" />
-<img width="1429" alt="Screenshot 2025-04-26 at 4 33 01 PM" src="https://github.com/user-attachments/assets/c74d957d-fdbd-42b4-a127-079ef39ec3a4" />
-<img width="1436" alt="Screenshot 2025-04-26 at 4 33 21 PM" src="https://github.com/user-attachments/assets/e2435045-8b78-40a6-8f7a-37512dc8cd5b" />
-<img width="1434" alt="Screenshot 2025-04-26 at 4 33 34 PM" src="https://github.com/user-attachments/assets/465194e5-c2e8-4d99-a4c4-114690b6ff20" />
+
